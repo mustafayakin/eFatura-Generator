@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\bin\Debug\Invoice Printing App.exe.config
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\bin\Debug\Invoice Printing App.exe
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\bin\Debug\Invoice Printing App.pdb
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice_Printing_App.Form1.resources
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice_Printing_App.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.exe
+C:\Users\Mustafa\source\repos\Invoice Printing App\Invoice Printing App\obj\Debug\Invoice Printing App.pdb
