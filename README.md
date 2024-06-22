@@ -33,4 +33,4 @@ Bu butona basıldığında görsel böyle oluyor. Sol üstteki yazıcı simgesin
 <img src = "https://github.com/mustafayakin/eFatura-Generator/blob/main/readme%20Görselleri/5.PNG" width=667px height=724px> 
 PDF birebir Türkiye Cumhuriyeti Gelir İdaresi Başkanlığının formatında hazırlanmıştır. Tüm kısımları doğrudur. Sağ üstteki tabloda faturanın oluşturulma tarihi ve oluşturulma zamanı görülebilmektedir. Bir altındaki ana tabloda ürünler miktarları ve birim fiyatları görülebilir. Onun altındaki kısımda irsaliye yerine geçer ve toplam ödenmesi gereken tutarın yazılışını görebilirsiniz. Bu kısımda ayrıca hesaplanan KDV kısmı parantez içinde özellikle belirtilmiştir -(Hesaplanan KDV(%18)-. Bunların hepsi dinamik biçimde oluşur. Onun bir altında da banka hesabı ekleyebileceğiniz kısımı görebilirsiniz.
 
-***Oluşturulan faturanın bir örneğini burada görebilirsiniz:*** <a href src= "https://github.com/mustafayakin/eFatura-Generator/blob/main/readme%20Görselleri/ornekFatura.pdf">link</a>
+***Oluşturulan faturanın bir örneğini burada görebilirsiniz:*** <a href= "https://github.com/mustafayakin/eFatura-Generator/blob/main/readme%20Görselleri/ornekFatura.pdf">link</a>
